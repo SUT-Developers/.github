@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://sut.edu.eg/wp-content/uploads/2025/02/Asset-4-01.svg" align="center" style="width: 100%" />
+<img src="" align="center" style="width: 100%" />
 </div>  
   
 
