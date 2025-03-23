@@ -7,7 +7,7 @@
 
 ### 
   
-## **<div align="center">Welcome To SUT-Developers on Github where all SUTians are Welcome to share their Projects and Ideas</div>**  
+## **<div align="center">Welcome To SUT-Developers on Github where all SUTians are Welcome to share their Open-Source Projects and Ideas</div>**  
   
 
 <br/>  
